@@ -1,7 +1,9 @@
 {
     "name": "Miaotore",
-    "description": "Ask the Cat to search in internet informations and write citations in response text",
     "version": "0.0.1",
+    "description": "Ask the Cat to search in internet informations and write citations in response text",
+    "author_name": "Davide Bizzocchi",
+    "author_url": "https://github.com/davidebizzocchi",
     "plugin_url": "https://github.com/davidebizzocchi/miaotore",
     "tags": "search, google"
 }

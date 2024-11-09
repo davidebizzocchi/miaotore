@@ -1,0 +1,7 @@
+{
+    "name": "Miatore",
+    "description": "Search in google",
+    "version": "alpha-0.0.1",
+    "plugin_url": "https://github.com/Furrmidable-Crew/cat_advanced_tools",
+    "tags": ["search", "google"]
+}

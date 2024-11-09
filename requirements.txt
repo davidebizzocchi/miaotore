@@ -1,0 +1,2 @@
+googlesearch-python>=1.2.5
+trafilatura>=1.12.2
